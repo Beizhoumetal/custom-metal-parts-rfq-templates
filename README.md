@@ -8,6 +8,8 @@ Practical, non-confidential templates and pre-quote checklists for mechanical en
 
 Download or copy the plain-text template included in this repository: [`first-contact-rfq-brief.txt`](./first-contact-rfq-brief.txt).
 
+Compare supplier offers with the [CNC quote comparison worksheet](./cnc-quote-comparison-checklist.md).
+
 ## Process-Specific RFQ Checklists & Buyer Guides
 
 Use the checklists below to align technical scope, finishing exclusions, and inspection expectations across bidders so quotes can be compared on the same baseline:
