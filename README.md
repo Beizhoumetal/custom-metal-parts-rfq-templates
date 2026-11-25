@@ -13,6 +13,9 @@ Compare supplier offers with the [CNC quote comparison worksheet](./cnc-quote-co
 
 Separate flat-blank and formed scopes with the [sheet metal and laser cutting RFQ checklist](./sheet-metal-and-laser-rfq-checklist.md).
 
+Align die concepts, tooling ownership, and edge-burr criteria with the [metal stamping tooling and burr RFQ checklist](./stamping-tooling-and-burr-rfq-checklist.md).
+
+
 ## Process-Specific RFQ Checklists & Buyer Guides
 
 Use the checklists below to align technical scope, finishing exclusions, and inspection expectations across bidders so quotes can be compared on the same baseline:
