@@ -30,12 +30,14 @@ Use the checklists below to align technical scope, finishing exclusions, and ins
 
 ## Copy-Ready Non-Confidential RFQ Snippets
 
+For a first inquiry, describe the part and share the details you know. You can leave the other fields blank and agree the quote scope later.
+
 ### 1. CNC Machining (Quote Scope Alignment)
 
 ```text
 Process: CNC machining
 Part summary: [PART TYPE / FUNCTION]
-Drawing / model status: Revision [REV] (units: [MM / INCH]; drawing governs)
+Drawing or model, if known: [REVISION AND UNITS]. If both exist, which controls if they differ? [DOCUMENT OR TO BE AGREED]
 Material & condition: [ALLOY / GRADE / TEMPER]
 Quantities: [PROTOTYPE / INITIAL LOT / REPEAT ESTIMATE]
 Critical tolerances & finish: [KEY BORES / DATUMS / THREADS; ANODIZING OR MASKING IF ANY]

@@ -37,10 +37,12 @@ Comparable project scope = agreed one-time setup or fixture charges
 
 ## 4. Copy-Ready Non-Confidential CNC Quote Alignment Snippet
 
+For a first inquiry, describe the part and share the details you know. You can leave the other fields blank and agree the quote scope later.
+
 ```text
 Process: CNC machining (milling / turning)
 Part summary: [NON-CONFIDENTIAL PART TYPE / FUNCTION]
-Drawing status: Revision [REV], units [MM / INCH] (controlled 2D drawing governs)
+Drawing or model, if known: [REVISION AND UNITS]. If the drawing and model differ, use [AGREED DOCUMENT OR TO BE CONFIRMED].
 Material & condition: [EXACT ALLOY / TEMPER OR GRADE]
 Quantities: [PROTOTYPE QTY / INITIAL BATCH / REPEAT ESTIMATE]
 Critical tolerances & finish: [KEY BORES / DATUMS / THREADS + ANODIZING / COATING + MASKING OR POST-FINISH ACCEPTANCE]

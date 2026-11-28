@@ -29,10 +29,12 @@ Ask each quoting party to keep **tooling build**, **initial tryout/FAI**, **main
 
 ## 3. Copy-Ready Non-Confidential Stamping Tooling & Burr RFQ Brief
 
+For a first inquiry, describe the part and share the details you know. You can leave the other fields blank and agree the quote scope later.
+
 ```text
 Process Route: Metal stamping (specify if bridge laser-blank + forming option should also be evaluated)
 Part Summary: [BRACKET / COVER / CLIP / ENCLOSURE SHELL — non-confidential functional outline]
-Drawing Revision & Units: Revision [REV] ([MM / INCH]; 2D drawing governs)
+Drawing or model, if known: [REVISION AND UNITS]. Which file defines the finished stamping? [GOVERNING FILE OR TO BE AGREED]
 Material Grade, Condition & Thickness: [E.G. 304 / 316L / 5052 / CARBON STEEL, TEMPER/ANNEALED STATE, NOMINAL THICKNESS]
 Volume Profile: Tooling Tryout [QTY] | Initial Release [QTY] | Annual Planning Estimate [QTY]
 Proposed Die Scope to Price: [Progressive / Transfer / Stage tooling — itemize design, build, tryout & ownership/storage terms]

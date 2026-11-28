@@ -10,7 +10,7 @@ Use this non-confidential checklist before issuing an RFQ so every bidder separa
 
 | Alignment Dimension | Standalone Laser Cutting (Flat Blanks) | Sheet Metal Fabrication (Formed Assemblies) | Target Reference Guide |
 | :--- | :--- | :--- | :--- |
-| **Governing Drawing & Files** | State exact DXF/DWG flat profile revision, units (mm/inch), and whether kerf compensation is supplier-handled | Define 2D formed drawing precedence over 3D STEP/flat patterns, bend table ownership, and critical folded datums | [Laser-Cut Part RFQ Checklist](https://beizhoumetal.com/guides/laser-cutting-rfq-checklist/) |
+| **Governing Drawing & Files** | State exact DXF/DWG flat profile revision, units (mm/inch), and whether kerf compensation is supplier-handled | Agree which file defines the finished geometry if the drawing, model and flat pattern differ. Identify who supplies the bend table and which folded datums matter. | [Laser-Cut Part RFQ Checklist](https://beizhoumetal.com/guides/laser-cutting-rfq-checklist/) |
 | **Sheet Grade, Condition & Grain** | Confirm alloy/grade, nominal thickness, protective film if cosmetic, and rolling-grain restriction if nested | State exact temper, bend-direction grain orientation, and mill certificate expectations where required | [Sheet Metal Fabrication Quote Checklist](https://beizhoumetal.com/guides/sheet-metal-quotation/) |
 | **Cut-Edge & Deburring Scope** | Clarify oxide removal, dross limits, pierced-hole edge condition, and tumbled vs. manual deburring | Define sharp-edge breaking on folded enclosures and internal cutouts prior to powder coat or plating | [Sheet Metal Bracket Design Guide](https://beizhoumetal.com/guides/sheet-metal-bracket-design/) |
 | **Bending, Hardware & Welding** | Confirm explicitly that bending, countersinking, tapping, and PEM insertion are **excluded** | Itemize bend count, inner bend radius, PEM/rivet nut specs, weld bead dress-up, and fixture needs | [CNC Machining vs. Sheet Metal Fabrication](https://beizhoumetal.com/guides/cnc-vs-sheet-metal/) |
@@ -30,10 +30,12 @@ Keep one-time programming, laser nesting setup, press-brake tooling checks, and 
 
 ## 3. Copy-Ready Non-Confidential Sheet Metal / Laser RFQ Brief
 
+For a first inquiry, describe the part and share the details you know. You can leave the other fields blank and agree the quote scope later.
+
 ```text
 Process Route: [Standalone Laser Cutting ONLY / Formed Sheet Metal Fabrication]
 Part Description: [BRACKET / ENCLOSURE PANEL / CHASSIS COVER / FLAT BLANK]
-Revision & File Basis: Revision [REV] (units: [MM / INCH]; [2D Drawing / Flat DXF] governs)
+File basis, if known: [REVISION AND UNITS]. For the flat profile or finished part, specify which file controls: [FILE AND SCOPE OR TO BE AGREED].
 Material & Thickness: [ALLOY / GRADE / CONDITION] — [NOMINAL THICKNESS]
 Quantities: Prototype/Sample [QTY] | Initial Lot [QTY] | Annual Estimate [QTY]
 Operations Included: [Laser cut only / Bending (bends) / Tapping / Hardware insertion / Welding / Grinding]
