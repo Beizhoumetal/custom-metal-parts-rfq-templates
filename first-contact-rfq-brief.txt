@@ -16,8 +16,8 @@ Requested delivery window, if known:
 One or two non-confidential requirements or questions (optional):
 
 Do not attach drawings, CAD files, customer-owned designs, or other sensitive
-information to the first email or WhatsApp message. This website has no upload
-channel. Before sharing confidential files, ask sales to agree confidentiality,
+information to the first email or WhatsApp message. Send this outline to Beizhou by email or WhatsApp
+using the contact details below. Keep project details out of public GitHub issues. Before sharing confidential files, ask sales to agree confidentiality,
 recipients, and a suitable transfer method.
 
 Contact: sales@beizhoumetal.com | WhatsApp: +86 156 8379 1002 | Web: https://beizhoumetal.com/contact/
