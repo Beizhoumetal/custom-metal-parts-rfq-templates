@@ -11,7 +11,7 @@ Put every prospective bidder into the same six rows—record `"excluded"` or `"o
 | Comparison Row | Confirm Across Every Bidder | Common Hidden Gap |
 | :--- | :--- | :--- |
 | **1. Drawing & Model Baseline** | Governing drawing revision, units (`mm` / `inch`), and precedence if 2D PDF and 3D STEP differ | Quoting `"latest drawing"` without naming the revision |
-| **2. Material & Condition** | Exact alloy/grade, temper or heat-treat condition, stock form, and required material record | Generic labels such as `"aluminum"` or `"stainless steel"` with unapproved substitutions |
+| **2. Material & Condition** | Exact alloy/grade, temper or heat-treat condition, stock form, and [required material record](https://beizhoumetal.com/guides/metal-parts-quality-documents/) | Generic labels such as `"aluminum"` or `"stainless steel"` with unapproved substitutions |
 | **3. Machining & Secondary Scope** | Deburring, edge-break, thread chasing, hardware insertion, and heat treatment | Assuming secondary operations are included in baseline milling/turning |
 | **4. Surface Finish & Masking** | Coating/anodizing spec, cosmetic faces, masking zones, and pre- vs. post-finish inspection of tight bores/threads | Finish build-up shifting critical fit dimensions after inspection |
 | **5. Inspection & Sample Evidence** | Critical-to-function features, measurement method (hand gauge vs. CMM), and first-sample vs. batch report format | Requesting `"CMM report"` without naming datums, tolerances, or reporting scope |
