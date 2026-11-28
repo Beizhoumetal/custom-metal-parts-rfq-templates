@@ -56,6 +56,6 @@ Non-confidential summary only; please confirm confidentiality terms and transfer
 
 - Non-Confidential Contact & First-Contact Brief: [https://beizhoumetal.com/contact/](https://beizhoumetal.com/contact/)
 - Metal Stamping Service Overview: [https://beizhoumetal.com/services/metal-stamping/](https://beizhoumetal.com/services/metal-stamping/)
-- Email: `sales@beizhoumetal.com` | WhatsApp: `+86 156 8379 1002`
+- Email: [sales@beizhoumetal.com](mailto:sales@beizhoumetal.com) | WhatsApp: [+86 156 8379 1002](https://wa.me/8615683791002)
 
 > *Note: This checklist is a general procurement reference. Tooling feasibility, manufacturing partner route, inspection methods, commercial terms, and lead times require project-specific drawing review.*

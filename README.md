@@ -79,7 +79,7 @@ Please quote tooling, tryout, and recurring unit charges separately and list all
 **Beizhou Metal** (operated for 重庆北舟商贸有限公司 in Chongqing, China) — custom metal parts sourcing and supply-chain coordination with manufacturing partners for CNC machining, sheet metal fabrication, standalone laser cutting, and metal stamping.
 
 - Website & Contact: [https://beizhoumetal.com/contact/](https://beizhoumetal.com/contact/)
-- Email: `sales@beizhoumetal.com`
-- WhatsApp: `+86 156 8379 1002`
+- Email: [sales@beizhoumetal.com](mailto:sales@beizhoumetal.com)
+- WhatsApp: [+86 156 8379 1002](https://wa.me/8615683791002)
 
 > *Note: These checklists are general procurement aids. Feasibility, supplier route, inspection methods, commercial terms, and delivery timing require project-specific confirmation.*

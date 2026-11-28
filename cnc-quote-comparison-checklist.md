@@ -67,6 +67,6 @@ Non-confidential outline only; confirm confidentiality and transfer channel befo
 **Beizhou Metal** (operated for 重庆北舟商贸有限公司 in Chongqing, China) — trading and supply-chain coordination helping overseas buyers align drawing-led sourcing, partner review, and quotation scope in China.
 
 - Contact & RFQ Brief: [https://beizhoumetal.com/contact/](https://beizhoumetal.com/contact/)
-- Email: `sales@beizhoumetal.com` | WhatsApp: `+86 156 8379 1002`
+- Email: [sales@beizhoumetal.com](mailto:sales@beizhoumetal.com) | WhatsApp: [+86 156 8379 1002](https://wa.me/8615683791002)
 
 > *Note: This worksheet is a general procurement planning aid. Feasibility, supplier routing, inspection methods, and commercial terms require project-specific confirmation.*

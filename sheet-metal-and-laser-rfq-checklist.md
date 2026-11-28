@@ -55,6 +55,6 @@ Non-confidential summary only; confirm confidential file-transfer arrangements p
 
 - Non-Confidential Contact & Starter Brief: [https://beizhoumetal.com/contact/](https://beizhoumetal.com/contact/)
 - Buyer Guides Hub (25 Checklists): [https://beizhoumetal.com/resources/](https://beizhoumetal.com/resources/)
-- Email: `sales@beizhoumetal.com` | WhatsApp: `+86 156 8379 1002`
+- Email: [sales@beizhoumetal.com](mailto:sales@beizhoumetal.com) | WhatsApp: [+86 156 8379 1002](https://wa.me/8615683791002)
 
 > *Note: This checklist is a general procurement alignment tool. Material availability, partner routing, inspection plans, and commercial terms require project-specific confirmation.*
